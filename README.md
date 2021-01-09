@@ -1,1 +1,1 @@
-# TSF-Data-Scienece-Tasks
+# TSF-Data-Science-Tasks
